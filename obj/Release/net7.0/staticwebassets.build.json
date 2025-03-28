@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uVILBxhgV5t711rfqJaWmxKGKPKeSHnqPmglC3fKLtE=",
+  "Source": "NetDocker",
+  "BasePath": "_content/NetDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\NetDocker.exe
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\appsettings.Development.json
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\appsettings.json
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\NetDocker.dll
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\NetDocker.deps.json
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\NetDocker.runtimeconfig.json
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\NetDocker.pdb
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Data\Workspace\.NET\NetDocker\NetDocker\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
